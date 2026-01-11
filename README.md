@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript,Css,Unity,Html,Affinty,Figma**
 
-- 📫 How to reach me **emirhanuzgun.dev@gmail.com**
+- 📫 How to reach me **uzgunemirhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
